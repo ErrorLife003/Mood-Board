@@ -1,5 +1,5 @@
 const moods = {
-  "😄": { quote: "Smiling through the chaos!", theme: "yellowTheme" },
+  "😄": { quote: "Smiling through the chaos!, You are shining.", theme: "yellowTheme" },
   "😢": { quote: "Crying is brave too.", theme: "blueTheme" },
   "😡": { quote: "You’re allowed to be mad.", theme: "redTheme" },
   "😴": { quote: "Rest is productive.", theme: "darkTheme" },
